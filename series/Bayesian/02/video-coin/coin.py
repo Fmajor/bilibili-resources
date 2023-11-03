@@ -2,7 +2,7 @@
 # @Date     : 2023-09-17
 # @Author   : @Fmajor in Bilibili
 
-# 本程序用于生成投硬币时后验概率的变化过程
+# 本程序用于模拟投硬币时后验概率的变化过程
 # 程序会在./figs和./figs1文件中生成若干png图片，并最后使用ffmpeg合成视频
 
 import numpy as np
