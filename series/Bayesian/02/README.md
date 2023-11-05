@@ -5,3 +5,4 @@
 * [Image][扑克牌、老千色子和患病率离散概率分布 图片生成程序](./fig-3-probability/)
 * [Image][二值事件概率更新模型的概率密度描述 图片生成程序](./fig-bi-event-density-distribution/)
 * [Video][抛硬币问题 视频生成程序](./video-coin/)
+## [视频文案](./文案)
