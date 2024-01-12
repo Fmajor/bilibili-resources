@@ -12,8 +12,8 @@
         * [贝叶斯公式和世界观][02.3]贝叶斯主义世界观/频率派vs贝叶斯派 ([视频链接](https://www.bilibili.com/video/BV1Jw411M7YZ))
         * [贝叶斯公式和世界观][02.4]相关和因果关系初探 ([视频链接](https://www.bilibili.com/video/BV1o94y157ZL))
     * [番外01][[三门问题相关]](./series/Bayesian/S00/E01-monty-hall)
-      * [S00E01]三个门派、七种视角，彻底理解三门问题: 速通派 v.s. 频率派 v.s. 贝叶斯派 ([视频链接](https://www.bilibili.com/video/))
-      * [S00E01.1][极速版]三个门派、七种视角，彻底理解三门问题: 速通派 v.s. 频率派 v.s. 贝叶斯派 ([视频链接](https://www.bilibili.com/video/))
+      * [S00E01]七种视角全面理解三门问题: 速通派/频率派/贝叶斯派 ([视频链接](https://www.bilibili.com/video/BV1zG411B79q))
+      * [S00E01.1][极速版]七种视角全面理解三门问题: 速通派/频率派/贝叶斯派 ([视频链接](https://www.bilibili.com/video/BV1bQ4y1j7aa))
 
 ## 视频参考资源
 见[References.md](References.md)
